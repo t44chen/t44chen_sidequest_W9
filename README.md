@@ -24,7 +24,7 @@ Gameplay Controls:
 - C: Continue to Level 2 (Available only on the Level 1 Win screen)
 - R: Restart the game (Available only on the final Win or Lose screens)
 
-Developer Debug Controls:
+Debug Screen:
 
 - ` (Backtick): Open or close the Debug Menu
 - 1: Toggle HUD Stats (Displays FPS, player coordinates, velocity, and grounded state)
